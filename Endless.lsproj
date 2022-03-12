@@ -1,0 +1,1775 @@
+{
+    "lens_id": "",
+    "document_id": "ZXp5i9j6VaiWuKe-zcqp",
+    "original_document_id": "ZXp5i9j6VaiWuKe-zcqp",
+    "version": "29",
+    "lastChanged": "1647069852176",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "13",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "13",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Audio",
+                        "pop"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Plane"
+                    ],
+                    [
+                        "Prefabs",
+                        "Magic Ball"
+                    ],
+                    [
+                        "Prefabs",
+                        "Magic Ball Material"
+                    ],
+                    [
+                        "Prefabs",
+                        "Materiale"
+                    ],
+                    [
+                        "Prefabs",
+                        "Sphere"
+                    ],
+                    [
+                        "Render Target"
+                    ],
+                    [
+                        "Scripts",
+                        "Behavior"
+                    ],
+                    [
+                        "Scripts",
+                        "Instantiator"
+                    ],
+                    [
+                        "Scripts",
+                        "Planetracker"
+                    ],
+                    [
+                        "Scripts",
+                        "SphereOnTapBehavior"
+                    ],
+                    [
+                        "Scripts",
+                        "SphereTouchStarted"
+                    ],
+                    [
+                        "World Mesh"
+                    ],
+                    [
+                        "World Mesh 2"
+                    ],
+                    [
+                        "World Mesh 3"
+                    ],
+                    [
+                        "World Mesh Default"
+                    ],
+                    [
+                        "World Mesh Default 2"
+                    ],
+                    [
+                        "World Mesh Default 3"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1528843813151434:5126",
+                    "1647048224840981:33979"
+                ]
+            ],
+            "selectionSetList": ""
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Endless Run",
+            "applicability": "8",
+            "lens_descriptors": "",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1647061925315679:140042"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1647044282184076:23447"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "8675309:9035768",
+                    "name": "Physics Root World Settings Asset",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1646890030197861:118715",
+                    "name": "Sphere",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1646890121284379:130369",
+                    "name": "Files\/File16.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1647039170105793:21363",
+                    "name": "Files\/File17",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1647044282184076:23447",
+                    "name": "Files\/File21",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1647044793646724:28041",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1647044793672276:28058",
+                    "name": "Files\/File23",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1647047489292065:30964",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1647047489320117:30981",
+                    "name": "Files\/File25",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1647048229950285:34074",
+                    "name": "Files\/File29.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1647048281739452:35001",
+                    "name": "Files\/File31.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1647053311399423:42086",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1647053311426018:42103",
+                    "name": "Files\/File32",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1647058753804221:85288",
+                    "name": "Files\/File34.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1647059332187082:96770",
+                    "name": "Files\/File35.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1647059900729623:123289",
+                    "name": "Files\/File37.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1647061913947188:139497",
+                    "name": "Files\/File38.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1647063011312893:226217",
+                    "name": "Files\/File39.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1646890101853537:127877",
+                "4": "1647048224840981:33979",
+                "5": "1647048229959021:34087",
+                "6": "1647062952531644:225195"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "12",
+                    "v": "Files\/File12.oprfb"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.oprfb"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.js"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.lsmat"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.lsmat"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.lsmat"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.mesh"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.mesh"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.js"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.lsmat"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.mp3"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.mesh"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.mesh"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.js"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.js"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.js"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "11209",
+                        "v": "Prefabs\/Magic Ball.oprfb"
+                    },
+                    {
+                        "k": "11211",
+                        "v": "Scripts\/Instantiator.js"
+                    },
+                    {
+                        "k": "11212",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "11213",
+                        "v": "Prefabs"
+                    },
+                    {
+                        "k": "11214",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "11215",
+                        "v": "Prefabs\/Materiale.lsmat"
+                    },
+                    {
+                        "k": "11217",
+                        "v": "Prefabs\/Magic Ball Material.lsmat"
+                    },
+                    {
+                        "k": "11218",
+                        "v": "World Mesh Default.lsmat"
+                    },
+                    {
+                        "k": "11219",
+                        "v": "World Mesh Default 2.lsmat"
+                    },
+                    {
+                        "k": "11221",
+                        "v": "Plane.mesh"
+                    },
+                    {
+                        "k": "11222",
+                        "v": "Scripts\/Planetracker.js"
+                    },
+                    {
+                        "k": "11223",
+                        "v": "World Mesh Default 3.lsmat"
+                    },
+                    {
+                        "k": "11225",
+                        "v": "Audio\/pop.mp3"
+                    },
+                    {
+                        "k": "11226",
+                        "v": "Audio"
+                    },
+                    {
+                        "k": "11227",
+                        "v": "Prefabs\/Sphere.mesh"
+                    },
+                    {
+                        "k": "11228",
+                        "v": "Scripts\/SphereOnTapBehavior.js"
+                    },
+                    {
+                        "k": "11229",
+                        "v": "Scripts\/Behavior.js"
+                    },
+                    {
+                        "k": "11230",
+                        "v": "Scripts\/SphereTouchStarted.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "11207",
+                        "v": "ffbce66d7c12d942b13208740e9d0059"
+                    },
+                    {
+                        "k": "11208",
+                        "v": "621da74e06cc402b895f39376927a9d1"
+                    },
+                    {
+                        "k": "11209",
+                        "v": "2c1e44a5a505019c995b410295819059"
+                    },
+                    {
+                        "k": "11210",
+                        "v": "c26febba082f7f0121f448f4518d3755"
+                    },
+                    {
+                        "k": "11211",
+                        "v": "66e29ff9824f49d88bec74e5b99773f2"
+                    },
+                    {
+                        "k": "11213",
+                        "v": "9d2c010db87568d60d4e430164ec4585"
+                    },
+                    {
+                        "k": "11214",
+                        "v": "de94c35d2a1794b34363b09585347878"
+                    },
+                    {
+                        "k": "11215",
+                        "v": "c63b970776159a4c07565a9100e0e96c"
+                    },
+                    {
+                        "k": "11216",
+                        "v": "ee0821fad0f88d3132ae220300927304"
+                    },
+                    {
+                        "k": "11217",
+                        "v": "114cfc3100b1b843f86fb217ce78c54c"
+                    },
+                    {
+                        "k": "11218",
+                        "v": "b7ea227fc4e827f72b9b6ce649ef278c"
+                    },
+                    {
+                        "k": "11219",
+                        "v": "7f2b474890dbf7bdf460f4b9cb0aa749"
+                    },
+                    {
+                        "k": "11220",
+                        "v": "f3f8f179b87ba4b5a44077fb80d53214"
+                    },
+                    {
+                        "k": "11221",
+                        "v": "f3f8f179b87ba4b5a44077fb80d53214"
+                    },
+                    {
+                        "k": "11222",
+                        "v": "fea6996afd788e014962901f0fd32a0c"
+                    },
+                    {
+                        "k": "11223",
+                        "v": "dccba0a8c7ef689e0530d30f0ab3a917"
+                    },
+                    {
+                        "k": "11224",
+                        "v": "d41d8cd98f00b204e9800998ecf8427e"
+                    },
+                    {
+                        "k": "11225",
+                        "v": "386040fb660096ad4213373aed43574c"
+                    },
+                    {
+                        "k": "11226",
+                        "v": "2ed51057f3fcf0daf2f45089eb67c72e"
+                    },
+                    {
+                        "k": "11227",
+                        "v": "ffbce66d7c12d942b13208740e9d0059"
+                    },
+                    {
+                        "k": "11228",
+                        "v": "d91f919f8797d355b5992d993c7a55db"
+                    },
+                    {
+                        "k": "11229",
+                        "v": "324d936bf1b61fe7a9ad8efc0bd63807"
+                    },
+                    {
+                        "k": "11230",
+                        "v": "d7b135117428dab6067a5ec83dfa20eb"
+                    },
+                    {
+                        "k": "11231",
+                        "v": "013c2df4f92174cd587543b3c9057a1b"
+                    },
+                    {
+                        "k": "11232",
+                        "v": "a5fe4bdbeb00b3317de51a647134e46d"
+                    },
+                    {
+                        "k": "11233",
+                        "v": "7fe912fe8a268102e5fad159fc134b3e"
+                    },
+                    {
+                        "k": "11234",
+                        "v": "15c10d23f345178fc37c9810262eef3a"
+                    },
+                    {
+                        "k": "11235",
+                        "v": "f76f5f2543b084b3b078e16cdff874f0"
+                    },
+                    {
+                        "k": "11236",
+                        "v": "73a65bfc27a091a67c3e39302e0cb1b3"
+                    },
+                    {
+                        "k": "11237",
+                        "v": "2a9ec5d2766406830dbb42035dd519eb"
+                    },
+                    {
+                        "k": "11238",
+                        "v": "f9c53ea5f3db7b211c317e43a089802d"
+                    },
+                    {
+                        "k": "11239",
+                        "v": "26222545fe85b621823fcaa5538febcd"
+                    },
+                    {
+                        "k": "11240",
+                        "v": "a66bab58bda9a21c2e54efd29fb596dc"
+                    },
+                    {
+                        "k": "11241",
+                        "v": "14487c10a766094b522efef634b92e3e"
+                    },
+                    {
+                        "k": "11242",
+                        "v": "5b8816ee8e2824c47141999334159e29"
+                    },
+                    {
+                        "k": "11243",
+                        "v": "b7a6134fba87321da124ab65a5a451c0"
+                    },
+                    {
+                        "k": "11244",
+                        "v": "6c9fba248b5a437eaea95ee18e63f7c3"
+                    },
+                    {
+                        "k": "11245",
+                        "v": "e8ebc9dd6d54f985aecb695edcdbb6d5"
+                    },
+                    {
+                        "k": "11246",
+                        "v": "ec29e8b488ed08468d68f0f27d90c54b"
+                    },
+                    {
+                        "k": "11247",
+                        "v": "f951903348648a14aada210f448dfdf6"
+                    },
+                    {
+                        "k": "11248",
+                        "v": "ac4d8384a946717fb27f8e61c2bb4098"
+                    },
+                    {
+                        "k": "11249",
+                        "v": "7562549864d19801d6ce8b8f0866bc51"
+                    },
+                    {
+                        "k": "11250",
+                        "v": "fbd44dda07a8a59e6b2f504f022ec256"
+                    },
+                    {
+                        "k": "11251",
+                        "v": "bbeba2c10b5794cb001195ddd155518a"
+                    },
+                    {
+                        "k": "11252",
+                        "v": "6efa08310c91289034501ec6a5e39b6a"
+                    },
+                    {
+                        "k": "11253",
+                        "v": "c932e6d55e4172f54797efb4dac0a27a"
+                    },
+                    {
+                        "k": "11254",
+                        "v": "b03bfebcf1803464166f56379f9455d8"
+                    },
+                    {
+                        "k": "11255",
+                        "v": "c823ff8d1cca7116f62fcfecdc101517"
+                    },
+                    {
+                        "k": "11256",
+                        "v": "79f499f4e939cfd98838ad2731ae9316"
+                    },
+                    {
+                        "k": "11257",
+                        "v": "17dfd2627d57e6a0cbef81a7904f45f5"
+                    },
+                    {
+                        "k": "11258",
+                        "v": "9b3c99df2a98488de6a3d4163112a209"
+                    },
+                    {
+                        "k": "11259",
+                        "v": "7bf0b628846ea413d682d88a111c87a5"
+                    },
+                    {
+                        "k": "11260",
+                        "v": "016c4200c8d405f5d0ba48a5e36b3f92"
+                    },
+                    {
+                        "k": "11261",
+                        "v": "9de68493d55f607622e985a11e238efb"
+                    },
+                    {
+                        "k": "11262",
+                        "v": "0f24d0c522f898d27e1b706db7040978"
+                    },
+                    {
+                        "k": "11263",
+                        "v": "35712c47dbeb24ebc34d2313b73c3fc3"
+                    },
+                    {
+                        "k": "11264",
+                        "v": "8080c0f4510255a6a5e80e156e858ae1"
+                    },
+                    {
+                        "k": "11265",
+                        "v": "ffbf3a7b77fd1b6c08ba3a64df6cef1f"
+                    },
+                    {
+                        "k": "11266",
+                        "v": "d1f61a64106902a86bbac8f74f240133"
+                    },
+                    {
+                        "k": "11267",
+                        "v": "4f849589fa8b3fd0d16badf257eb1892"
+                    },
+                    {
+                        "k": "11268",
+                        "v": "219907152211ef5bfaf119c03e1ce983"
+                    },
+                    {
+                        "k": "11269",
+                        "v": "c78d7b89143f3c876027c9ed5906b2b3"
+                    },
+                    {
+                        "k": "11270",
+                        "v": "7573ce2403afebbb19e4cb6114c2b1fb"
+                    },
+                    {
+                        "k": "11271",
+                        "v": "ecdad966cb54a6d7185f4583f4957c40"
+                    },
+                    {
+                        "k": "11272",
+                        "v": "d168450618121bdc24d1fcdd5dc46378"
+                    },
+                    {
+                        "k": "11273",
+                        "v": "695374e3e661ace915f0329c04b92796"
+                    },
+                    {
+                        "k": "11274",
+                        "v": "2ce3c6a0ee03e5b3132a2dc2aed67208"
+                    },
+                    {
+                        "k": "11275",
+                        "v": "d49da574437c49df090ec2d93c4cf21d"
+                    },
+                    {
+                        "k": "11276",
+                        "v": "84318af2029585324009c3ad75e3ca15"
+                    },
+                    {
+                        "k": "11277",
+                        "v": "df90fd649b22f8ee015fdd0006b54dd2"
+                    },
+                    {
+                        "k": "11278",
+                        "v": "03985e273c77090439700d2bb82af411"
+                    },
+                    {
+                        "k": "11279",
+                        "v": "f229fb7bafbec7ad49067480f4db94ef"
+                    },
+                    {
+                        "k": "11280",
+                        "v": "590bea99b1a1ab9471d0a90a9950f575"
+                    },
+                    {
+                        "k": "11281",
+                        "v": "c57749abec789d089e3b33154f32fe36"
+                    },
+                    {
+                        "k": "11282",
+                        "v": "049f88c7cb4eab6d3c58359ee4e74a55"
+                    },
+                    {
+                        "k": "11283",
+                        "v": "264507d2c86b908f16de3392133315d6"
+                    },
+                    {
+                        "k": "11284",
+                        "v": "6ed1018621b4a04c72bd1801f838dcf2"
+                    },
+                    {
+                        "k": "11285",
+                        "v": "acfb5b879261ccf21f7f6b96bb8c0487"
+                    },
+                    {
+                        "k": "11286",
+                        "v": "c536ff2fe618bce7689829e83227796f"
+                    },
+                    {
+                        "k": "11287",
+                        "v": "a36a9539d4ba36c0e7e7b6be9a300926"
+                    },
+                    {
+                        "k": "11288",
+                        "v": "064acd9b7ddbb4c28f4e058bfac48a27"
+                    },
+                    {
+                        "k": "11289",
+                        "v": "7ea71962a138003efcf2abad61a68840"
+                    },
+                    {
+                        "k": "11290",
+                        "v": "157b134ec75352375364cc0ff3bd1628"
+                    },
+                    {
+                        "k": "11291",
+                        "v": "e3c9234441e97a20b09beefb8f459e94"
+                    },
+                    {
+                        "k": "11292",
+                        "v": "8d5001fc01941e40f12689d862c35dac"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2022-03-11T23:24:10",
+                        "name": "Public",
+                        "hash": "b2293295b8f465c9127ab0b4273a6c65",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-03-11T14:52:28",
+                                "name": "Materials",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-11T14:52:28",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-03-11T23:24:10",
+                                "name": "Prefabs",
+                                "hash": "75282a619ed6159f90d2746bd6646992",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-11T23:05:18",
+                                        "name": "Magic Ball.oprfb",
+                                        "hash": "2c1e44a5a505019c995b410295819059",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-11T23:24:10",
+                                        "name": "Magic Ball Material.lsmat",
+                                        "hash": "e2263fb56e69ffbcad7d6aceae27e868",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-24T09:34:45",
+                                        "name": "Sphere.mesh",
+                                        "hash": "ffbce66d7c12d942b13208740e9d0059",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-11T23:24:10",
+                                        "name": "Materiale.lsmat",
+                                        "hash": "1f6104db59c4485edc28e06951bd06bd",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-11T13:28:11",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-03-11T17:23:49",
+                                "name": "Plane.mesh",
+                                "hash": "f3f8f179b87ba4b5a44077fb80d53214",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-03-11T20:19:16",
+                                "name": "Audio",
+                                "hash": "77a789ab7532dae519c618560521742f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-11T20:18:42",
+                                        "name": "pop.mp3",
+                                        "hash": "386040fb660096ad4213373aed43574c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-11T20:19:13",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2022-03-11T21:30:20",
+                                "name": "Scripts",
+                                "hash": "ab8f81a8f2d0ec6e674ef3e2156ca6a3",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-11T23:15:17",
+                                        "name": "SphereTouchStarted.js",
+                                        "hash": "d7b135117428dab6067a5ec83dfa20eb",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-11T18:47:11",
+                                        "name": "Planetracker.js",
+                                        "hash": "fea6996afd788e014962901f0fd32a0c",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-11T23:21:25",
+                                        "name": "Instantiator.js",
+                                        "hash": "66e29ff9824f49d88bec74e5b99773f2",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-01-24T09:34:47",
+                                        "name": "Behavior.js",
+                                        "hash": "324d936bf1b61fe7a9ad8efc0bd63807",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-11T20:42:38",
+                                        "name": "SphereOnTapBehavior.js",
+                                        "hash": "d91f919f8797d355b5992d993c7a55db",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2022-03-11T13:27:54",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-03-11T23:24:10",
+                                "name": "World Mesh Default 3.lsmat",
+                                "hash": "31d99d8a13d68bc0558959db5fa37f54",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-03-11T23:24:10",
+                                "name": "World Mesh Default.lsmat",
+                                "hash": "9650deb3e25bcb128ca6d408839bb18c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-03-11T23:24:10",
+                                "name": "World Mesh Default 2.lsmat",
+                                "hash": "7b467d9bccf5cbc0ea1907c35dfd955c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2022-01-24T09:34:45",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Physics Root World Settings",
+                        "type": "36",
+                        "subtype": "1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "8675309:9035768",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "11212",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Instantiator",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "17",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1646890121284379:130369",
+                                "fileId": "16",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11211",
+                                "source": "\/Users\/michaelbecker\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudioUyFIFhICylwa\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Planetracker",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "27",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1647048281739452:35001",
+                                "fileId": "31",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11222",
+                                "source": "\/Users\/michaelbecker\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiosVSBQWdWEdNb\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "SphereOnTapBehavior",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "32",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1647059900729623:123289",
+                                "fileId": "37",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11228",
+                                "source": "\/Users\/michaelbecker\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiosVSBQWdWEdNb\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Behavior",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "33",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1647061913947188:139497",
+                                "fileId": "38",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11229",
+                                "source": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/Presets\/Scripts\/BehaviorScript.js",
+                                "additional": ""
+                            },
+                            {
+                                "name": "SphereTouchStarted",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "34",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1647063011312893:226217",
+                                "fileId": "39",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11230",
+                                "source": "\/Users\/michaelbecker\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiopOWgKGPwuzbK\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Prefabs",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "11213",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Magic Ball",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "15",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1646890030197861:118715",
+                                "fileId": "12",
+                                "originalId": "13",
+                                "publicId": "11209",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Materiale",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "18",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1647039170105793:21363",
+                                "fileId": "17",
+                                "originalId": "18",
+                                "publicId": "11215",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            },
+                            {
+                                "name": "Magic Ball Material",
+                                "type": "2",
+                                "subtype": "1",
+                                "resourceId": "20",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1647044282184076:23447",
+                                "fileId": "21",
+                                "originalId": "22",
+                                "publicId": "11217",
+                                "source": "",
+                                "additional": {
+                                    "isUnpackedInPublic": "false"
+                                }
+                            },
+                            {
+                                "name": "Sphere",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "31",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1647059332187082:96770",
+                                "fileId": "35",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11227",
+                                "source": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/meshes\/Sphere.mesh",
+                                "additional": {
+                                    "info": {
+                                        "vertexAttribs": [
+                                            {
+                                                "semantic": "position",
+                                                "format": "9",
+                                                "canBeDisabled": "false"
+                                            },
+                                            {
+                                                "semantic": "normal",
+                                                "format": "9",
+                                                "canBeDisabled": "true"
+                                            },
+                                            {
+                                                "semantic": "tangent",
+                                                "format": "9",
+                                                "canBeDisabled": "true"
+                                            },
+                                            {
+                                                "semantic": "color",
+                                                "format": "3",
+                                                "canBeDisabled": "true"
+                                            },
+                                            {
+                                                "semantic": "texture0",
+                                                "format": "9",
+                                                "canBeDisabled": "true"
+                                            }
+                                        ],
+                                        "hasBlendShapes": "false",
+                                        "hasSkinBones": "false"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "11214",
+                        "source": "",
+                        "additional": "",
+                        "resources": ""
+                    },
+                    {
+                        "name": "World Mesh",
+                        "type": "3",
+                        "subtype": "3",
+                        "resourceId": "21",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1647044793646724:28041",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "World Mesh Default",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "22",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1647044793672276:28058",
+                        "fileId": "23",
+                        "originalId": "24",
+                        "publicId": "11218",
+                        "source": "",
+                        "additional": {
+                            "isUnpackedInPublic": "false"
+                        }
+                    },
+                    {
+                        "name": "World Mesh 2",
+                        "type": "3",
+                        "subtype": "3",
+                        "resourceId": "23",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1647047489292065:30964",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "World Mesh Default 2",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "24",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1647047489320117:30981",
+                        "fileId": "25",
+                        "originalId": "26",
+                        "publicId": "11219",
+                        "source": "",
+                        "additional": {
+                            "isUnpackedInPublic": "false"
+                        }
+                    },
+                    {
+                        "name": "Plane",
+                        "type": "3",
+                        "subtype": "0",
+                        "resourceId": "26",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1647048229950285:34074",
+                        "fileId": "29",
+                        "originalId": "18446744073709551615",
+                        "publicId": "11221",
+                        "source": "\/Users\/michaelbecker\/Library\/Caches\/Snap\/Lens Studio\/temp\/StudiosVSBQWdWEdNb\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                        "additional": {
+                            "info": {
+                                "vertexAttribs": [
+                                    {
+                                        "semantic": "position",
+                                        "format": "9",
+                                        "canBeDisabled": "false"
+                                    },
+                                    {
+                                        "semantic": "normal",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "tangent",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "color",
+                                        "format": "3",
+                                        "canBeDisabled": "true"
+                                    },
+                                    {
+                                        "semantic": "texture0",
+                                        "format": "9",
+                                        "canBeDisabled": "true"
+                                    }
+                                ],
+                                "hasBlendShapes": "false",
+                                "hasSkinBones": "false"
+                            }
+                        }
+                    },
+                    {
+                        "name": "World Mesh 3",
+                        "type": "3",
+                        "subtype": "3",
+                        "resourceId": "28",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1647053311399423:42086",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "World Mesh Default 3",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "29",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1647053311426018:42103",
+                        "fileId": "32",
+                        "originalId": "33",
+                        "publicId": "11223",
+                        "source": "",
+                        "additional": {
+                            "isUnpackedInPublic": "false"
+                        }
+                    },
+                    {
+                        "name": "Audio",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "11226",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "pop",
+                                "type": "5",
+                                "subtype": "0",
+                                "resourceId": "30",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1647058753804221:85288",
+                                "fileId": "34",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11225",
+                                "source": "\/Users\/michaelbecker\/Documents\/Snap Lenses\/Endless\/Public\/pop.mp3",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1647044282184076:23447",
+                        "path_list": [
+                            "Prefabs",
+                            "Magic Ball Material"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1647044072273337:15969",
+                        "v": {
+                            "prefab": "1646890030197861:118715",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1647062952531644:225195",
+                                    "v": "1647062952531644:225195"
+                                },
+                                {
+                                    "k": "1647062952532129:225207",
+                                    "v": "1647062952532129:225207"
+                                },
+                                {
+                                    "k": "1647062952533203:225219",
+                                    "v": "1647062952533203:225219"
+                                },
+                                {
+                                    "k": "1647062952533563:225228",
+                                    "v": "1647062952533563:225228"
+                                },
+                                {
+                                    "k": "1647062952533735:225230",
+                                    "v": "1647062952533735:225230"
+                                },
+                                {
+                                    "k": "1647062952534057:225233",
+                                    "v": "1647062952534057:225233"
+                                },
+                                {
+                                    "k": "1647063033600365:228088",
+                                    "v": "1647063033600365:228088"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1647062952531644:225195",
+                        "v": {
+                            "prefab": "1646890030197861:118715",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1647062952531644:225195",
+                                    "v": "1647062952531644:225195"
+                                },
+                                {
+                                    "k": "1647062952532129:225207",
+                                    "v": "1647062952532129:225207"
+                                },
+                                {
+                                    "k": "1647062952533203:225219",
+                                    "v": "1647062952533203:225219"
+                                },
+                                {
+                                    "k": "1647062952533563:225228",
+                                    "v": "1647062952533563:225228"
+                                },
+                                {
+                                    "k": "1647063033600365:228088",
+                                    "v": "1647063033600365:228088"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "new_compression_info": [
+                {
+                    "k": "1647048229950285:34074",
+                    "v": {
+                        "infos": {
+                            "originalSize": "620",
+                            "compressedSize": "620",
+                            "originalRAM": "220",
+                            "compressedRAM": "220",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "color",
+                                            "format": "3",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "30",
+                        "compressed_files": ""
+                    }
+                },
+                {
+                    "k": "1647059332187082:96770",
+                    "v": {
+                        "infos": {
+                            "originalSize": "13151",
+                            "compressedSize": "13151",
+                            "originalRAM": "27388",
+                            "compressedRAM": "27388",
+                            "extension": "mesh",
+                            "settings": {
+                                "isCompressed": "false",
+                                "info": {
+                                    "vertexAttribs": [
+                                        {
+                                            "semantic": "position",
+                                            "format": "9",
+                                            "canBeDisabled": "false"
+                                        },
+                                        {
+                                            "semantic": "normal",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "tangent",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "color",
+                                            "format": "3",
+                                            "canBeDisabled": "true"
+                                        },
+                                        {
+                                            "semantic": "texture0",
+                                            "format": "9",
+                                            "canBeDisabled": "true"
+                                        }
+                                    ],
+                                    "hasBlendShapes": "false",
+                                    "hasSkinBones": "false"
+                                },
+                                "type": "0",
+                                "attributeFormat": "",
+                                "draco": {
+                                    "posBits": "11",
+                                    "texBits": "10",
+                                    "normalBits": "8",
+                                    "colorBits": "8",
+                                    "genericBits": "8",
+                                    "compressLvl": "7"
+                                }
+                            }
+                        },
+                        "uncompressed_file": "36",
+                        "compressed_files": ""
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": ""
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.13.0"
+}
